@@ -1,0 +1,12 @@
+{
+  "name": "fraud-detection",
+  "version": "1.0.0",
+  "description": "AI-Powered Fraud Detection System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
